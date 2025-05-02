@@ -8,7 +8,7 @@
     font-weight: 400; /* Lightly bold text; use this if you prefer a moderate bold */
   }
   
-  iframe {
+  iframe.spline{
     position: absolute;
     top: 0;
     left: 0;
